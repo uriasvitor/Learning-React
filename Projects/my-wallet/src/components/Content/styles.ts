@@ -1,5 +1,5 @@
 import styled from "styled-components";
 
-const Content = styled.div``;
-
-export default Content;
+export const Container = styled.div`
+    grid-area: CT;
+`;

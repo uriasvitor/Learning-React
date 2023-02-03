@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "../Aside/styles";
+import {Container} from "../Content/styles";
 
 const Content : React.FC = ()=>{
 

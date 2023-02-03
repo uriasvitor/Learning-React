@@ -1,10 +1,28 @@
 import styled from "styled-components";
 
-export const MainHeader = styled.div`
-    display:grid;
-    grid-template-columns: 250px auto;
-    grid-template-rows: 70px auto;
-    grid-template-areas:'AS MH' 'AS CT';
 
-    height:100vh;
+export const Container = styled.div`
+    grid-area: MH;
+    background-color: ${props => props.theme.colors.secondary};
+    color:${props => props.theme.colors.white};
+
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+
+    padding: 0 10px;
+
+    border-bottom: 1px solid ${props => props.theme.colors.gray}
 `;
+
+
+export const Profile = styled.div`
+    color: ${props => props.theme.colors.white};
+
+`;
+
+export const Welcome = styled.h3`
+    
+`;
+
+export const UserName = styled.span``;
