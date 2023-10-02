@@ -1,5 +1,4 @@
-# Learning-React
-
+# Roading Map
 
 CLI Tools
 - Create React App
@@ -66,6 +65,9 @@ Forms
 React Native
 - mobile
 
+
+## Referencias
+
 <table>
   <tr>
     <th>Livro</th>
@@ -80,3 +82,23 @@ React Native
     <td><a href="#">CCCCCCCCCCCCCCCCC</a></td>
   </tr>
 </table>
+
+# Aprendendo React
+
+## CLI Tools
+Criando o primeiro projeto, dentro de um pasta separada vamos criar um projeto react, para iniciar o projeto abra o cmd local e digite:
+#### É preciso Instalar o nodeJS antes.
+
+> npx create-react-app my-app
+
+Esse comando inicia um projeto react.
+
+Voce pode também instalar a versão desejada usando
+> npm install react-scripts@latest
+
+### referencia
+<ul>
+  <li><a href="https://create-react-app.dev/">Official doc</a></li>
+  <li><a href="https://create-react-app.dev/">[Official doc](https://www.robinwieruch.de/minimal-react-webpack-babel-setup/)https://www.robinwieruch.de/minimal-react-webpack-babel-setup/</a></li>
+</ul>
+
