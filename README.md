@@ -93,7 +93,8 @@ Criando o primeiro projeto, dentro de um pasta separada vamos criar um projeto r
 
 Esse comando inicia um projeto react.
 
-Voce pode também instalar a versão desejada usando
+Você pode também pode instalar a versão desejada usando o comando:
+
 > npm install react-scripts@latest
 
 ### referencia
